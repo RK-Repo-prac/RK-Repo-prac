@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ My tech journey kicked off as a Programmer Analyst Trainee, where I excelled in software testing with a special focus on Regression Testing. Armed with tools like JIRA and Jenkins, I ensured the stability of clients' web applications, contributing to a 15% boost in testing efficiency.<br><br>📚 My expertise extends to Python, Pytest, and Selenium, providing a robust foundation for automation and deployment crucial in DevOps practices. In addition to testing tools like Jira and Jenkins, I've delved into cloud services such as AWS (EC2, S3, Lambda, EKS), containerization with Docker and Kubernetes, and configuration management using Ansible and Terraform.<br><br>🎯 Goals: Seeking Opportunities: DevOps Internship for Spring 2024 Co-ops & New Grad Roles (Starting May 2024)</p>
+<p align="left">✨ My tech journey kicked off as a Programmer Analyst Trainee, where I excelled in software testing with a special focus on Regression Testing. Armed with tools like JIRA and Jenkins, I ensured the stability of clients' web applications, contributing to a 15% boost in testing efficiency.<br><br>📚 My expertise extends to Python, Pytest, and Selenium, providing a robust foundation for automation and deployment crucial in DevOps practices. In addition to testing tools like Jira and Jenkins, I've delved into cloud services such as AWS (EC2, S3, Lambda, EKS), containerization with Docker and Kubernetes, and configuration management using Ansible and Terraform.<br><br>🎯 Goals: Seeking Opportunities:Internship & New Grad Roles (Starting May 2024)</p>
 
 ###
 
